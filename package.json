@@ -1,0 +1,19 @@
+{
+  "name": "atom-meanjs",
+  "main": "./lib/atom-meanjs",
+  "version": "0.1.0",
+  "description": "Autocomplete for working with mean.js",
+  "keywords": [
+    "mean", "meanjs", "mean.js", "express", "expressjs", "angular", "angularjs", "javascript"
+  ],
+  "activationCommands": {
+    "atom-workspace": "atom-meanjs:toggle"
+  },
+  "repository": "https://github.com/atom/atom-meanjs",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
